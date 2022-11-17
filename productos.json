@@ -1,0 +1,32 @@
+[
+    {
+        "title": "pelota",
+        "price": 50,
+        "thumbnail": "https://i.pinimg.com/originals/99/ec/79/99ec79bb6fc28cc2d5c793dac7b7c616.jpg",
+        "id": 1
+    },
+    {
+        "title": "short",
+        "price": 100,
+        "thumbnail": "https://www.adidas.com.ar/shorts-titular-argentina-21/FS6572.html",
+        "id": 2
+    },
+    {
+        "title": "camiseta",
+        "price": 150,
+        "thumbnail": "https://www.adidas.com.ar/camiseta-alternativa-argentina-22/HB9220.html",
+        "id": 3
+    },
+    {
+        "Title": "canilleras",
+        "Price": "25",
+        "URL": "https://www.sporting.com.ar/set-tarjetas-de-arbitro-drb-3324190-unico/p?idsku=31164&gclid=CjwKCAjwh4ObBhAzEiwAHzZYU6jeV8qBUrht_6dg3ae-m_PldwxHbcBiVnb1Z9uEQ6ogVrzxwxR80hoC6wcQAvD_BwE",
+        "id": 4
+    },
+    {
+        "Title": "tarejtas",
+        "Price": "100",
+        "URL": "https://www.referee-store.com/uy/productos/tarjetas-arbitros-logos-color/",
+        "id": 5
+    }
+]
